@@ -38,5 +38,6 @@ require_once('includes/head.php');
       $('ul.sf-menu').sooperfish();
     });
   </script>
+  <?php require_once('includes/piwik.php'); ?>
 </body>
 </html>

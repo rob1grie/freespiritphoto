@@ -35,5 +35,6 @@ Manchester, Maine" /></li>
       $('ul.sf-menu').sooperfish();
     });
   </script>
+  <?php require_once('includes/piwik.php'); ?>
 </body>
 </html>

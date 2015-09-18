@@ -80,5 +80,6 @@ require_once('includes/head.php');
 
   </div>
 <?php require_once('includes/portfolio_js.php'); ?>
+  <?php require_once('includes/piwik.php'); ?>
 </body>
 </html>

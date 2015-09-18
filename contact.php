@@ -154,5 +154,6 @@
 				alert(result);
 			}
 		</script>
+  <?php require_once('includes/piwik.php'); ?>
 	</body>
 </html>
